@@ -66,10 +66,3 @@ The Weenix kernel project required the design and implementation of several key 
 ## Acknowledgments
 
 This project was developed as part of CSCI 402 at USC. The Weenix kernel framework and test suites were provided by the course staff.
-
----
-
-**Contributors:**  
-- Harshal Borhade  
-- Shardul Dharmadhikari  
-- Raghav Sadany
